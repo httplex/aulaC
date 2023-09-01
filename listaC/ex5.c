@@ -1,25 +1,21 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int bisssexto(int ano);
+int parImpar(int numero);
 
 int main(){
-    int ano;
+    int numero;
 
-    printf("Informe o ano para saber se ele é bissexto ou não: ");
-    scanf("%d", &ano);
+    printf("Informe o número: ");
+    scanf("%d", &numero);
 
-    return bisssexto(ano);
+    return parImpar(numero);
 }
 
-int bisssexto(int ano)
-{
-    if (ano % 4 == 0)
-    {
-        printf("O ano é bissexto!\n");
-    }
-    else
-    {
-        printf("O ano não é bissexto.\n");
+int parImpar(int numero){
+    if(numero % 2 == 0){
+        printf("O número é par!\n");
+    } else {
+        printf("O número é ímpar.\n");
     }
 }
