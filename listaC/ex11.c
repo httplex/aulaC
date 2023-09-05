@@ -2,5 +2,8 @@
 #include <stdlib.h>
 
 int main(){
+    int numero = 3;
+
+    
     
 }
