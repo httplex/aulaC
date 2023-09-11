@@ -1,3 +1,6 @@
+/*  Faça um programa que peça a nota de um aluno em uma prova e verifique se ele foi
+aprovado (nota maior ou igual a 6) ou reprovado (nota menor que 6).  */
+
 #include <stdio.h>
 #include <stdlib.h>
 

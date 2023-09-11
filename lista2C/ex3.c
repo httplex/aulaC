@@ -1,3 +1,6 @@
+/*  Escreva um programa que calcule e imprima a área de um triângulo. Peça ao usuário
+para inserir a base e a altura do triângulo.  */
+
 #include <stdio.h>
 #include <stdlib.h>
 

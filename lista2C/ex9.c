@@ -1,3 +1,5 @@
+/*  Crie um programa que imprima a tabuada de multiplicação de um número fornecido pelo usuário  */
+
 #include <stdio.h>
 #include <stdlib.h>
 

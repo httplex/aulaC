@@ -1,3 +1,5 @@
+/*  Escreva um programa que classifique um dado número inteiro como positivo, negativo ou zero.  */
+
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,3 +1,6 @@
+/*  1. Peça ao usuário para digitar seu nome e idade e, em seguida, imprima uma
+mensagem formatada com esses dados.  */
+
 #include <stdio.h>
 #include <stdlib.h>
 

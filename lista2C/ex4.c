@@ -1,3 +1,5 @@
+/*  Crie um programa que leia um número inteiro e imprima seu quadrado e cubo.  */
+
 #include <stdio.h>
 #include <stdlib.h>
 

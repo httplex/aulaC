@@ -1,3 +1,7 @@
+/*  Crie um programa que converta uma temperatura em graus Celsius para Fahrenheit.
+Peça ao usuário para inserir a temperatura em Celsius e imprima a temperatura
+equivalente em Fahrenheit.  */
+
 #include <stdio.h>
 #include <stdlib.h>
 

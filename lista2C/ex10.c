@@ -1,3 +1,6 @@
+/*  . Escreva um programa que calcule e imprima o fatorial de um número inteiro positivo 
+dado pelo usuário.  */
+
 #include <stdio.h>
 #include <stdlib.h>
 
