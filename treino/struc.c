@@ -26,11 +26,11 @@ struct tipoPessoa{
             fflush(stdin);
 
             puts("Idade: ");
-            scanf("%d", &lista[i].idade;
+            //scanf("%d", &lista[i].idade;
             fflush(stdin);
 
             puts("Peso: ");
-            scanf("%f", &lista[i].peso;
+            //scanf("%f", &lista[i].peso;
             fflush(stdin);
         }
 
@@ -38,7 +38,7 @@ struct tipoPessoa{
        
         puts("Seus dados:\n");
         for(i=0; i<TAM; i++){
-            printf("\n---------- Pessoa %d ----------\n", i+1);
+           // printf("\n---------- Pessoa %d ----------\n", i+1);
             printf("\tNome: %s\n", lista[i].nome);
             printf("\tIdade %d\n", lista[i].idade);
             printf("\tPeso: %.2f\n", lista[i].peso);
